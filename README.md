@@ -1,4 +1,5 @@
 # Bluette C. Riviere
+![Bluette C. Riviere — RegTech & Tax Technology Consultant](./assets/profile-header.svg)
 
 **RegTech & Tax Technology Consultant**  
 Regulatory compliance · Fiscalisation · E-invoicing · Enterprise software
