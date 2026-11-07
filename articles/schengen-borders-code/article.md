@@ -67,7 +67,7 @@ Article 25a distinguishes between different types of threats.
 |---|---:|---:|
 | Unforeseeable serious threat | Up to 1 month | 3 months in total |
 | Foreseeable serious threat | Up to 6 months | 2 years |
-| Major exceptional situation beyond 2 years | Additional exceptional prolongations | 3 years in total |
+| Major exceptional situation | Additional extension of up to 6 months, subject to Article 27a(5) | Up to 3 years in total, subject to further exceptional conditions |
 
 The possibility of extending controls beyond two years is subject to additional safeguards, including risk assessments and European Commission involvement.
 
