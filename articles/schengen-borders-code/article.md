@@ -69,13 +69,7 @@ Article 25a distinguishes between different types of threats.
 | Foreseeable serious threat | Up to 6 months | 2 years |
 | Major exceptional situation | Additional extension of up to 6 months, subject to Article 27a(5) | Up to 3 years in total, subject to further exceptional conditions |
 
-The possibility of extending controls beyond two years is subject to additional safeguards, including risk assessments and European Commission involvement.
-
-The distinction between foreseeable and unforeseeable threats is important because it determines the applicable notification, duration and justification requirements.
-
-Duration limits should not be interpreted as an automatic entitlement to maintain controls for the entire permitted period.
-
-Each prolongation remains subject to the applicable necessity and proportionality requirements.
+The possibility of extending controls beyond two years is strictly exceptional. Under Article 27a(5), a Member State may notify the Commission of a major exceptional situation justifying continued controls. An additional period of up to six months may be granted. A final extension of up to six months is possible only where the continued need is confirmed and the initial additional period is insufficient to ensure that alternative measures are available.
 
 ### 2.3. A more explicit proportionality assessment
 
