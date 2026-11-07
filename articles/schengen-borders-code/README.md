@@ -2,7 +2,7 @@
 
 <sub>REGULATORY INTELLIGENCE · EUROPEAN UNION / SCHENGEN AREA · 6 NOVEMBER 2026</sub>
 
-![Schengen Bridge Under Review — editorial visual](./Article1_Schengen_Fall-2026.png)
+![Schengen Bridge Under Review — editorial visual](./schengen-under-regulatory-scrutiny.webp)
 
 ## Duration Limits, Proportionality and Regulatory Oversight
 
