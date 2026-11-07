@@ -10,6 +10,15 @@ My background combines regulatory compliance, fiscalisation, technical auditing,
 This GitHub profile brings together practical projects, technical explorations and documentation-led work across RegTech and enterprise technology.
 
 ---
+## Selected Regulatory Analyses
+
+### The Revised Schengen Borders Code
+**Duration Limits, Proportionality and Regulatory Oversight**
+
+An analysis of Regulation (EU) 2024/1717 examining revised duration limits, proportionality requirements, European Commission oversight and the implications for cross-border mobility.
+
+[Read the full analysis](./articles/schengen-borders-code/article.md) · [View editorial visual](./articles/schengen-borders-code/)
+---
 
 ## Areas of focus
 
