@@ -248,7 +248,7 @@ For the Schengen Area, preserving free movement requires more than maintaining t
 2. [Regulation (EU) 2024/1717 amending Regulation (EU) 2016/399](https://eur-lex.europa.eu/eli/reg/2024/1717/oj)
 3. [Article 26(2) TFEU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12016E/TXT)
 4. [Article 72 TFEU](https://eur-lex.europa.eu/eli/treaty/tfeu_2016/art_72/oj/eng)
-5. [Court of Justice of the European Union, Case C-368/20, *NW v Landespolizeidirektion Steiermark*, ECLI:EU:C:2022:553.](https://curia.europa.eu/juris/liste.jsf?num=C-368/20&language=en)
+5. [Court of Justice of the European Union, Judgment of 26 April 2022, NW v Landespolizeidirektion Steiermark, Joined Cases C-368/20 and C-369/20, ECLI:EU:C:2022:298](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0368)
 6. [Commission Recommendation (EU) 2024/268 on cooperation between Member States with regard to serious threats to internal security and public policy](https://eur-lex.europa.eu/eli/reco/2024/268)
 7. [European Commission, 2026 State of Schengen Report, COM(2026) 150 final](https://data.europa.eu/doi/10.2861/0069752)
 8. [European Parliament, Policy Department for Justice, Civil Liberties and Institutional Affairs, *The Economic Impact of Internal Border Controls*, PE 790.632 (2026)](https://www.europarl.europa.eu/RegData/etudes/STUD/2026/790632/IPOL_STU(2026)790632_EN.pdf)
