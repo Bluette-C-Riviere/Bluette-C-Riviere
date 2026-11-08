@@ -246,9 +246,9 @@ The distinction between these two dimensions will increasingly determine which o
 
 1. Ignaszak, M., Nepelski, D., Stake, J. and André, A.-A. (2026). *Measuring AI adoption in the European Union: Methodology and results for strategic sectors*. Joint Research Centre, Publications Office of the European Union. JRC146753. DOI: [10.2760/7714638](https://data.europa.eu/doi/10.2760/7714638).
 
-2. European Commission (2025). *Apply AI Strategy*. COM(2025) 723 final, 8 October 2025.
+2. [European Commission (2025). *Apply AI Strategy*. COM(2025) 723 final, 8 October 2025.](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52025DC0723)
 
-3. Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act).
+3. [Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act).](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)
 
 ## Editorial note
 
