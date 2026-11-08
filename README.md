@@ -12,7 +12,16 @@ This GitHub profile brings together practical projects, technical explorations a
 ---
 ## Selected Regulatory Analyses
 
+### The EU's AI Adoption Gap
+
+**Why Wider Access Does Not Yet Translate into Deeper Business Integration**
+
+An analysis of European AI adoption, examining the distinction between increasing access to artificial intelligence and its deeper integration into business operations. Drawing on the European Commission Joint Research Centre's 2026 research, it explores the organisational, technological and governance capabilities required for meaningful AI integration.
+
+[Read the full analysis](./articles/eu-ai-adoption/article.md) · [View article and editorial visual](./articles/eu-ai-adoption/)
+
 ### The Revised Schengen Borders Code
+
 **Duration Limits, Proportionality and Regulatory Oversight**
 
 An analysis of Regulation (EU) 2024/1717 examining revised duration limits, proportionality requirements, European Commission oversight and the implications for cross-border mobility.
