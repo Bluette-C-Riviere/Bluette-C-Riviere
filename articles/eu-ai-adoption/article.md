@@ -9,20 +9,6 @@
 
 ---
 
-## SEO metadata
-
-**SEO title:** The EU's AI Adoption Gap: From Experimentation to Business Integration
-
-**Meta description:** EU AI adoption is accelerating, but integration into core business processes remains uneven. Explore the organisational, technological and governance challenges behind the adoption gap.
-
-**Suggested URL slug:** `eu-ai-adoption-gap-business-integration`
-
-**Primary keywords:** EU AI adoption, European AI integration, AI business transformation, AI governance, digital maturity, European digital transformation
-
-**Secondary keywords:** AI adoption statistics, AI organisational readiness, AI implementation, AI regulatory uncertainty, enterprise AI integration
-
----
-
 # The EU's AI Adoption Gap: Why Wider Access Does Not Yet Translate into Deeper Business Integration
 
 ## Executive perspective
