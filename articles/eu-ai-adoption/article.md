@@ -1,5 +1,4 @@
- 
-# The EU's AI Adoption Gap: Why Wider Access Does Not Yet Translate into Deeper Business Integration
+ # The EU's AI Adoption Gap: Why Wider Access Does Not Yet Translate into Deeper Business Integration
 
 **Category:** Strategic Perspectives & Industry Commentary  
 **Topic:** European AI adoption, digital transformation and organisational maturity  
