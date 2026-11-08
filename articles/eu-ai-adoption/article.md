@@ -9,8 +9,6 @@
 
 ---
 
-# The EU's AI Adoption Gap: Why Wider Access Does Not Yet Translate into Deeper Business Integration
-
 ## Executive perspective
 
 Artificial intelligence adoption across the European Union is accelerating, but increased access to AI technologies does not necessarily indicate that businesses are integrating them into their core operations.
