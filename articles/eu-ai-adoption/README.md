@@ -1,4 +1,4 @@
-﻿# The EU's AI Adoption Gap
+# The EU's AI Adoption Gap
 
 <sub>STRATEGIC PERSPECTIVES · EUROPEAN UNION · NOVEMBER 2026</sub>
 
