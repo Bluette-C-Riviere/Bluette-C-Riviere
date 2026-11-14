@@ -67,10 +67,6 @@ Git · GitHub · Markdown · Visual Studio Code
 
 > I distinguish between technologies used in practical projects and technologies I am currently studying or exploring. The integration topics above reflect an active learning track, not a claim of production-level implementation experience.
 
-## Open-source exploration
-
-I also explore and contribute to existing open-source projects, including [watermarks-remover](https://github.com/Bluette-C-Riviere/watermarks-remover). I treat this as collaborative exploration rather than presenting the underlying project as my original work.
-
 ## Current interests
 
 - European VAT digitalisation and regulatory change
