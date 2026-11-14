@@ -54,6 +54,12 @@ A personal interface-design project: a minimalist Firefox theme built around a r
 
 **Topics:** visual design · theme configuration · asset preparation · packaging · project documentation
 
+### [Citrus-Bloom-Comfort — Firefox Theme](https://github.com/Bluette-C-Riviere/citrus-bloom-comfort-firefox-theme)
+
+A personal interface-design project: a minimalist Firefox theme built around a restrained palette and a calm browsing experience.
+
+**Topics:** visual design · theme configuration · asset preparation · packaging · project documentation
+
 ## Technical toolkit
 
 **Web technologies**  
