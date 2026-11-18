@@ -15,12 +15,11 @@ The AMLA–EPPO Working Arrangement signed on 17 November 2026 connects financia
 
 ## Editorial report
 
-The nine-page editorial report is available in PDF format.  
-[Open the PDF report](./assets/amla-eppo-editorial-report.pdf)
+The final nine-page, watermarked PDF report and standalone cover visual have been supplied for publication. The binary assets still need to be added to the repository before their links can be enabled.
 
 ## Editorial visual
 
-![AMLA & EPPO — Connected by Design. Proven by Evidence.](./assets/amla-eppo-editorial-cover.png)
+*Cover visual supplied; repository image link will be enabled once the image file is committed.*
 
 ## Scope
 
