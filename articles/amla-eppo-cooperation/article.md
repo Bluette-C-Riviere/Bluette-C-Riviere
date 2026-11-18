@@ -166,8 +166,8 @@ Its value will depend on instruments, records and behaviour that follow signatur
 
 **Primary sources**
 
-1. AMLA, *Press Release: AMLA and the EPPO sign working arrangement to strengthen the fight against money laundering*, 17 November 2026.
-2. AMLA and EPPO, *Working Arrangement on Cooperation*, signed in Frankfurt on 17 November 2026.
+1. AMLA, [*Press Release: AMLA and the EPPO sign working arrangement to strengthen the fight against money laundering*](https://www.amla.europa.eu/amla-and-eppo-agree-closer-cooperation-fight-money-laundering-affecting-eu-budget_en), 17 November 2026.
+2. AMLA and EPPO, [*Working Arrangement on Cooperation*](https://www.amla.europa.eu/document/download/21f8c0f0-1c39-4de0-b770-49c2c5436fd6_en?filename=Working%20Arrangement%20-%20AMLA%20and%20EPPO.pdf), signed in Frankfurt on 17 November 2026.
 
 **Legislative references**
 
