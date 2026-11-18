@@ -26,7 +26,7 @@ Several operational details sit in later instruments absent from the published t
 
 AMLA is the Union authority for anti-money laundering and countering terrorist financing. Its remit covers common rules and consistent supervision across the Union. Cooperation between national Financial Intelligence Units (FIUs) is part of its remit. The EPPO investigates and prosecutes crimes affecting the Union's financial interests. Article 2 frames cooperation around each party's mandate and relevant predicate offences.
 
-Article 1 calls the arrangement technical, strategic and operational in nature. It has no legally binding effects on the Union or Member States. It also does not form the basis for exchanging personal data.
+Article 1 calls the arrangement technical, strategic and operational in nature. It has no legally binding effects on the Union or Member States. It also does not form the basis for exchanging personal data. Any exchange of personal data must therefore rely on an independent legal basis; Article 17 governs the protection of personal data exchanged under the arrangement.
 
 The AMLA Regulation is Regulation (EU) 2024/1620 of 31 May 2024. The EPPO Regulation is Council Regulation (EU) 2017/1939 of 12 October 2017. Article 23 brings the arrangement into force on the date of signature.
 
