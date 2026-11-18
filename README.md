@@ -12,6 +12,15 @@ This GitHub profile brings together practical projects, technical explorations a
 ---
 ## Selected Regulatory Analyses
 
+### AMLA & EPPO — Connected by Design. Proven by Evidence.
+
+**The AMLA and EPPO Arrangement Connects Institutions, but Only Evidence Will Prove Cooperation**
+
+An analysis of the AMLA–EPPO Working Arrangement signed on 17 November 2026, examining institutional cooperation, information governance, control design, operational evidence and the implementation questions deferred to later instruments.
+
+[Read the full analysis](./articles/amla-eppo-cooperation/article.md) · [View article and editorial report](./articles/amla-eppo-cooperation/)
+
+
 ### The EU's AI Adoption Gap
 
 **Why Wider Access Does Not Yet Translate into Deeper Business Integration**
